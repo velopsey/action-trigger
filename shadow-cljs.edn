@@ -1,0 +1,11 @@
+{:deps true
+ :nrepl {:port 9000}
+
+ :builds
+ {:app
+  {:target    :node-script
+   :main      my-service.core/main
+   :output-to "out/app.js"
+
+   :devtools
+   {:after-load my-service.core/reload!}}}}
