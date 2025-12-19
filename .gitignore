@@ -1,4 +1,11 @@
+.clj-kondo
+.cpcache
+.lsp
+.calva
+.shadow-cljs
 node_modules
-.env.*
 .env
-TODO.md
+out
+
+
+

@@ -1,3 +1,3 @@
-# action-trigger-telegram-bot
+# action-trigger
 
-Telegram bot for reaction to triggers
+Fast reaction to triggers
