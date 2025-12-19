@@ -5,7 +5,7 @@
 .shadow-cljs
 node_modules
 .env
-
+out
 
 
 
